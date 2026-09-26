@@ -29,6 +29,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/EmonH10/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/EmonH10/LeetCode-DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/EmonH10/LeetCode-DSA/tree/master/0069-sqrtx) |
 ## Bit Manipulation
@@ -51,4 +52,12 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/EmonH10/LeetCode-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Array
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/EmonH10/LeetCode-DSA/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/EmonH10/LeetCode-DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
