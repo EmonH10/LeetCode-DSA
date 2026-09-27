@@ -64,9 +64,14 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/EmonH10/LeetCode-DSA/tree/master/0155-min-stack) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/EmonH10/LeetCode-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/EmonH10/LeetCode-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/EmonH10/LeetCode-DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
