@@ -61,6 +61,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/EmonH10/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/EmonH10/LeetCode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0605-can-place-flowers](https://github.com/EmonH10/LeetCode-DSA/tree/master/0605-can-place-flowers) |
 ## Matrix
 |  |
 | ------- |
@@ -82,4 +83,8 @@
 | ------- |
 | [0155-min-stack](https://github.com/EmonH10/LeetCode-DSA/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/EmonH10/LeetCode-DSA/tree/master/0707-design-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/EmonH10/LeetCode-DSA/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
