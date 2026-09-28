@@ -11,6 +11,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/EmonH10/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/EmonH10/LeetCode-DSA/tree/master/0067-add-binary) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/EmonH10/LeetCode-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/EmonH10/LeetCode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -69,10 +70,12 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/EmonH10/LeetCode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/EmonH10/LeetCode-DSA/tree/master/0155-min-stack) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/EmonH10/LeetCode-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/EmonH10/LeetCode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/EmonH10/LeetCode-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/EmonH10/LeetCode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
