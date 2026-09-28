@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/EmonH10/LeetCode-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0707-design-linked-list](https://github.com/EmonH10/LeetCode-DSA/tree/master/0707-design-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -80,4 +81,5 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/EmonH10/LeetCode-DSA/tree/master/0155-min-stack) |
+| [0707-design-linked-list](https://github.com/EmonH10/LeetCode-DSA/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
