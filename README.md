@@ -10,6 +10,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/EmonH10/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/EmonH10/LeetCode-DSA/tree/master/0067-add-binary) |
+| [0290-word-pattern](https://github.com/EmonH10/LeetCode-DSA/tree/master/0290-word-pattern) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/EmonH10/LeetCode-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/EmonH10/LeetCode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
@@ -95,4 +96,8 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/EmonH10/LeetCode-DSA/tree/master/0203-remove-linked-list-elements) |
+## Hash Table
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/EmonH10/LeetCode-DSA/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
