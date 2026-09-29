@@ -35,6 +35,7 @@
 | [0067-add-binary](https://github.com/EmonH10/LeetCode-DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/EmonH10/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/EmonH10/LeetCode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/EmonH10/LeetCode-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/EmonH10/LeetCode-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/EmonH10/LeetCode-DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/EmonH10/LeetCode-DSA/tree/master/0707-design-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/EmonH10/LeetCode-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Array
 |  |
 | ------- |
