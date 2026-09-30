@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/EmonH10/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/EmonH10/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String
 |  |
@@ -64,6 +65,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/EmonH10/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/EmonH10/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/EmonH10/LeetCode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0605-can-place-flowers](https://github.com/EmonH10/LeetCode-DSA/tree/master/0605-can-place-flowers) |
