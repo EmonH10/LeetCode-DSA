@@ -6,6 +6,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/EmonH10/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/EmonH10/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/EmonH10/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/EmonH10/LeetCode-DSA/tree/master/0443-string-compression) |
 ## String
 |  |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/EmonH10/LeetCode-DSA/tree/master/0067-add-binary) |
+| [0287-find-the-duplicate-number](https://github.com/EmonH10/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/EmonH10/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/EmonH10/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/EmonH10/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -77,6 +80,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EmonH10/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/EmonH10/LeetCode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/EmonH10/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/EmonH10/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/EmonH10/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/EmonH10/LeetCode-DSA/tree/master/0605-can-place-flowers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/EmonH10/LeetCode-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -137,4 +141,12 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EmonH10/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/EmonH10/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/EmonH10/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
