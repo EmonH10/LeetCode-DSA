@@ -151,4 +151,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/EmonH10/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/EmonH10/LeetCode-DSA/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
