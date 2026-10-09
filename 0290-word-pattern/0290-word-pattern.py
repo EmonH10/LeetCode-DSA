@@ -3,34 +3,28 @@ class Solution:
 
         words = []
 
-        i = 0
-        while(i<len(s)):
-
-            element = ""
-
-            while i<len(s) and s[i] != " ":
-                element += s[i]
-                i+=1
-            words.append(element)
-
-            i+=1
-
-        if len(words) != len(pattern):
-            return False
+        words = s.split()
 
         d = {}
 
-        for i in range(0,len(pattern)):
+        n = len(pattern)
+        n1 = len(words)
 
+        if n != n1:
+            return False
+
+        for i in range(0,n):
             if pattern[i] in d:
                 if d[pattern[i]] != words[i]:
                     return False
             else:
                 if words[i] in d.values():
                     return False
-                d[pattern[i]] = words[i]
+                d[pattern[i]] = words[i] 
 
         return True
+
+
 
         
 
