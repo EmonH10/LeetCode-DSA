@@ -4,29 +4,28 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def removeElements(self, head: Optional[ListNode], val: int) -> Optional[ListNode]:
-        l = head
-
+    def removeElements(self, head: ListNode | None, val: int) -> ListNode | None:
+        
         nums = []
 
-        while(l != None):
-            value = l.val
-            l = l.next
+        h = head
 
-            if value == val:
+        while(h != None):
+            nums.append(h.val)
+            h = h.next
+
+        arr = []
+
+        for i in nums:
+            if i == val:
                 continue
-            nums.append(value)
+            arr.append(i)
 
-        
         dummy = ListNode(0)
         current = dummy
 
-        for i in nums:
-            current.next = ListNode(i) 
+        for i in arr:
+            current.next = ListNode(i)
             current = current.next
 
         return dummy.next
-
-        
-
-        
