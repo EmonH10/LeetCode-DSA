@@ -17,6 +17,7 @@
 | [0014-longest-common-prefix](https://github.com/EmonH10/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/EmonH10/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/EmonH10/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/EmonH10/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/EmonH10/LeetCode-DSA/tree/master/0067-add-binary) |
 | [0290-word-pattern](https://github.com/EmonH10/LeetCode-DSA/tree/master/0290-word-pattern) |
 | [0443-string-compression](https://github.com/EmonH10/LeetCode-DSA/tree/master/0443-string-compression) |
@@ -83,6 +84,7 @@
 | [0018-4sum](https://github.com/EmonH10/LeetCode-DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/EmonH10/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/EmonH10/LeetCode-DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/EmonH10/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EmonH10/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/EmonH10/LeetCode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/EmonH10/LeetCode-DSA/tree/master/0189-rotate-array) |
@@ -128,6 +130,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/EmonH10/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/EmonH10/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/EmonH10/LeetCode-DSA/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/EmonH10/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1796-second-largest-digit-in-a-string](https://github.com/EmonH10/LeetCode-DSA/tree/master/1796-second-largest-digit-in-a-string) |
@@ -167,6 +170,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/EmonH10/LeetCode-DSA/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/EmonH10/LeetCode-DSA/tree/master/0049-group-anagrams) |
 ## Divide and Conquer
 |  |
 | ------- |
