@@ -89,6 +89,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/EmonH10/LeetCode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/EmonH10/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/EmonH10/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/EmonH10/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/EmonH10/LeetCode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/EmonH10/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/EmonH10/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -131,6 +132,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/EmonH10/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/EmonH10/LeetCode-DSA/tree/master/0049-group-anagrams) |
+| [0229-majority-element-ii](https://github.com/EmonH10/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/EmonH10/LeetCode-DSA/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/EmonH10/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1796-second-largest-digit-in-a-string](https://github.com/EmonH10/LeetCode-DSA/tree/master/1796-second-largest-digit-in-a-string) |
@@ -171,8 +173,17 @@
 | ------- |
 | [0018-4sum](https://github.com/EmonH10/LeetCode-DSA/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/EmonH10/LeetCode-DSA/tree/master/0049-group-anagrams) |
+| [0229-majority-element-ii](https://github.com/EmonH10/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/EmonH10/LeetCode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/EmonH10/LeetCode-DSA/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/EmonH10/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
