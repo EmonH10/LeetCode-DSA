@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/EmonH10/LeetCode-DSA/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/EmonH10/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/EmonH10/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/EmonH10/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/EmonH10/LeetCode-DSA/tree/master/0189-rotate-array) |
@@ -84,6 +85,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/EmonH10/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/EmonH10/LeetCode-DSA/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/EmonH10/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/EmonH10/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/EmonH10/LeetCode-DSA/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/EmonH10/LeetCode-DSA/tree/master/0048-rotate-image) |
