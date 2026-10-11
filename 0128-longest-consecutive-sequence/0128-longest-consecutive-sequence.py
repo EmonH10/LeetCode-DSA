@@ -4,7 +4,7 @@ class Solution:
         s = set(nums)
 
         maxCount = 0
-        count = 0
+    
         for element in s:
 
             if element-1 not in s:
