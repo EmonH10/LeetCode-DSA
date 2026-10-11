@@ -89,6 +89,7 @@
 | [0048-rotate-image](https://github.com/EmonH10/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/EmonH10/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EmonH10/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/EmonH10/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/EmonH10/LeetCode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/EmonH10/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/EmonH10/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -137,6 +138,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/EmonH10/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/EmonH10/LeetCode-DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/EmonH10/LeetCode-DSA/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/EmonH10/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/EmonH10/LeetCode-DSA/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/EmonH10/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/EmonH10/LeetCode-DSA/tree/master/0290-word-pattern) |
@@ -197,4 +199,8 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/EmonH10/LeetCode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/EmonH10/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
