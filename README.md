@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/EmonH10/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/EmonH10/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/EmonH10/LeetCode-DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/EmonH10/LeetCode-DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/EmonH10/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/EmonH10/LeetCode-DSA/tree/master/0443-string-compression) |
 ## String
@@ -48,6 +49,7 @@
 | [0069-sqrtx](https://github.com/EmonH10/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/EmonH10/LeetCode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/EmonH10/LeetCode-DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/EmonH10/LeetCode-DSA/tree/master/0202-happy-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/EmonH10/LeetCode-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Bit Manipulation
 |  |
@@ -135,6 +137,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/EmonH10/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/EmonH10/LeetCode-DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/EmonH10/LeetCode-DSA/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/EmonH10/LeetCode-DSA/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/EmonH10/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/EmonH10/LeetCode-DSA/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/EmonH10/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -166,6 +169,7 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/EmonH10/LeetCode-DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/EmonH10/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Database
 |  |
