@@ -69,6 +69,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/EmonH10/LeetCode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/EmonH10/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/EmonH10/LeetCode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/EmonH10/LeetCode-DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/EmonH10/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/EmonH10/LeetCode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/EmonH10/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
@@ -101,6 +102,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/EmonH10/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/EmonH10/LeetCode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/EmonH10/LeetCode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/EmonH10/LeetCode-DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/EmonH10/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/EmonH10/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/EmonH10/LeetCode-DSA/tree/master/0229-majority-element-ii) |
