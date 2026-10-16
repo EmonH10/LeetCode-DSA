@@ -114,6 +114,7 @@
 | [0605-can-place-flowers](https://github.com/EmonH10/LeetCode-DSA/tree/master/0605-can-place-flowers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/EmonH10/LeetCode-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/EmonH10/LeetCode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/EmonH10/LeetCode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Matrix
 |  |
 | ------- |
@@ -160,6 +161,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/EmonH10/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1796-second-largest-digit-in-a-string](https://github.com/EmonH10/LeetCode-DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/EmonH10/LeetCode-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/EmonH10/LeetCode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Trie
 |  |
 | ------- |
@@ -228,4 +230,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/EmonH10/LeetCode-DSA/tree/master/0075-sort-colors) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/EmonH10/LeetCode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/EmonH10/LeetCode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
