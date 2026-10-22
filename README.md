@@ -98,6 +98,7 @@
 | [0041-first-missing-positive](https://github.com/EmonH10/LeetCode-DSA/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/EmonH10/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/EmonH10/LeetCode-DSA/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/EmonH10/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/EmonH10/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/EmonH10/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EmonH10/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -142,6 +143,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/EmonH10/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/EmonH10/LeetCode-DSA/tree/master/0605-can-place-flowers) |
 ## Recursion
 |  |
@@ -180,6 +182,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/EmonH10/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EmonH10/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Pigeonhole Principle
 |  |
