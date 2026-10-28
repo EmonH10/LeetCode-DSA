@@ -202,6 +202,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/EmonH10/LeetCode-DSA/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/EmonH10/LeetCode-DSA/tree/master/0176-second-highest-salary) |
 ## Sorting
 |  |
