@@ -1,13 +1,14 @@
 class Solution:
-    def maximumSubarraySum(self, nums: List[int], k: int) -> int:
-        
-        maximumSum = 0
-        currentSum = 0
+    def maximumSubarraySum(self, nums: list[int], k: int) -> int:
 
         freq = {}
 
+        currentSum = 0
+        maximumSum = 0
+
         for i in range(0,k):
             currentSum += nums[i]
+
             if nums[i] in freq:
                 freq[nums[i]] += 1
             else:
@@ -16,39 +17,22 @@ class Solution:
         if len(freq) == k:
             maximumSum = currentSum
 
-        
-        for l in range(k,len(nums)):
+        for i in range(k,len(nums)):
+            currentSum = currentSum + nums[i] - nums[i-k]
+            freq[nums[i-k]] -= 1
 
-            j = l
-            i = j-k
+            if freq[nums[i-k]] == 0:
+                del freq[nums[i-k]]
 
-            currentSum = currentSum - nums[i] + nums[j]
+            if nums[i] in freq:
+                freq[nums[i]] += 1
 
-            freq[nums[i]] -= 1
-
-            if freq[nums[i]] == 0:
-                del freq[nums[i]]
-
-            if nums[j] in freq:
-                freq[nums[j]] += 1
             else:
-                freq[nums[j]] = 1
+                freq[nums[i]] = 1
 
             if len(freq) == k:
                 maximumSum = max(maximumSum,currentSum)
 
 
         return maximumSum
-
-
-
-
-
-
-
-  
-
-
-            
-
         
