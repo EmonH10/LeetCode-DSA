@@ -120,6 +120,7 @@
 | [0435-non-overlapping-intervals](https://github.com/EmonH10/LeetCode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/EmonH10/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/EmonH10/LeetCode-DSA/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/EmonH10/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/EmonH10/LeetCode-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/EmonH10/LeetCode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/EmonH10/LeetCode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -189,6 +190,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/EmonH10/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/EmonH10/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/EmonH10/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/EmonH10/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
 |  |
 | ------- |
