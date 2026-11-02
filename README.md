@@ -101,6 +101,7 @@
 | [0045-jump-game-ii](https://github.com/EmonH10/LeetCode-DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/EmonH10/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/EmonH10/LeetCode-DSA/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/EmonH10/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/EmonH10/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/EmonH10/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/EmonH10/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/EmonH10/LeetCode-DSA/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/EmonH10/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/EmonH10/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EmonH10/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/EmonH10/LeetCode-DSA/tree/master/0435-non-overlapping-intervals) |
@@ -223,6 +225,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/EmonH10/LeetCode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/EmonH10/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/EmonH10/LeetCode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
