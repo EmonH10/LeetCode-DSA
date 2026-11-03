@@ -28,6 +28,7 @@
 | [0067-add-binary](https://github.com/EmonH10/LeetCode-DSA/tree/master/0067-add-binary) |
 | [0290-word-pattern](https://github.com/EmonH10/LeetCode-DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/EmonH10/LeetCode-DSA/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/EmonH10/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/EmonH10/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/EmonH10/LeetCode-DSA/tree/master/0443-string-compression) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/EmonH10/LeetCode-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -175,6 +176,7 @@
 | [0202-happy-number](https://github.com/EmonH10/LeetCode-DSA/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/EmonH10/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/EmonH10/LeetCode-DSA/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/EmonH10/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/EmonH10/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1796-second-largest-digit-in-a-string](https://github.com/EmonH10/LeetCode-DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/EmonH10/LeetCode-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -243,6 +245,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/EmonH10/LeetCode-DSA/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/EmonH10/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -271,4 +274,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/EmonH10/LeetCode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/EmonH10/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
