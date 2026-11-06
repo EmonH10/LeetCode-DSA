@@ -18,6 +18,7 @@
 | [0344-reverse-string](https://github.com/EmonH10/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/EmonH10/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/EmonH10/LeetCode-DSA/tree/master/0443-string-compression) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/EmonH10/LeetCode-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/EmonH10/LeetCode-DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/EmonH10/LeetCode-DSA/tree/master/0707-design-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/EmonH10/LeetCode-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/EmonH10/LeetCode-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Array
 |  |
 | ------- |
