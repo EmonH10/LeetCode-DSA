@@ -18,6 +18,7 @@
 | [0344-reverse-string](https://github.com/EmonH10/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/EmonH10/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/EmonH10/LeetCode-DSA/tree/master/0443-string-compression) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/EmonH10/LeetCode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/EmonH10/LeetCode-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/EmonH10/LeetCode-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
@@ -133,6 +134,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/EmonH10/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/EmonH10/LeetCode-DSA/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/EmonH10/LeetCode-DSA/tree/master/0724-find-pivot-index) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/EmonH10/LeetCode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/EmonH10/LeetCode-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/EmonH10/LeetCode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/EmonH10/LeetCode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -186,6 +188,7 @@
 | [0290-word-pattern](https://github.com/EmonH10/LeetCode-DSA/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/EmonH10/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/EmonH10/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/EmonH10/LeetCode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1796-second-largest-digit-in-a-string](https://github.com/EmonH10/LeetCode-DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/EmonH10/LeetCode-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/EmonH10/LeetCode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -243,6 +246,7 @@
 | [0229-majority-element-ii](https://github.com/EmonH10/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/EmonH10/LeetCode-DSA/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/EmonH10/LeetCode-DSA/tree/master/0435-non-overlapping-intervals) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/EmonH10/LeetCode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
