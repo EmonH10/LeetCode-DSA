@@ -1,34 +1,40 @@
 class Solution:
-    def sortColors(self, nums: List[int]) -> None:
+    def sortColors(self, nums: list[int]) -> None:
+        """
+        Do not return anything, modify nums in-place instead.
+        """
+
         countOf0 = 0
         countOf1 = 0
-        countOf2 = 0
 
-        n = len(nums)
 
-        for i in range(0,n):
-
+        for i in range(0,len(nums)):
             if nums[i] == 0:
                 countOf0 += 1
-            elif nums[i] == 1:
+
+        for i in range(0,len(nums)):
+            if nums[i] == 1:
                 countOf1 += 1
-            else:
-                countOf2 += 1
 
-        index = 0
-        for i in range(0,countOf0):
-            nums[index] = 0
-            index += 1
+        print(countOf0)
+        print(countOf1)
 
-        for i in range(0,countOf1):
-            nums[index] = 1
-            index += 1
+        k = 0
+        i = 0
 
-        for i in range(0,countOf2):
-            nums[index] = 2
-            index += 1
+        while(i < countOf0):
+            nums[i] = 0
+            i+=1
+            k+=1
 
-        
+        j = 0
+        while(j<countOf1):
+            nums[k] = 1
+            k+=1
+            j+=1
 
+        while(k<len(nums)):
+            nums[k] = 2
+            k+=1
 
         
