@@ -69,11 +69,13 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/EmonH10/LeetCode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/EmonH10/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/EmonH10/LeetCode-DSA/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/EmonH10/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/EmonH10/LeetCode-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/EmonH10/LeetCode-DSA/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/EmonH10/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/EmonH10/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
@@ -182,6 +184,7 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/EmonH10/LeetCode-DSA/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/EmonH10/LeetCode-DSA/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
