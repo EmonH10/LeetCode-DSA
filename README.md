@@ -62,6 +62,7 @@
 | [0007-reverse-integer](https://github.com/EmonH10/LeetCode-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/EmonH10/LeetCode-DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/EmonH10/LeetCode-DSA/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/EmonH10/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/EmonH10/LeetCode-DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/EmonH10/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/EmonH10/LeetCode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -120,6 +121,7 @@
 | [0049-group-anagrams](https://github.com/EmonH10/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/EmonH10/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/EmonH10/LeetCode-DSA/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/EmonH10/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/EmonH10/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/EmonH10/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EmonH10/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
