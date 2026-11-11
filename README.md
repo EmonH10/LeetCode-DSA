@@ -59,6 +59,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/EmonH10/LeetCode-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/EmonH10/LeetCode-DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/EmonH10/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/EmonH10/LeetCode-DSA/tree/master/0067-add-binary) |
